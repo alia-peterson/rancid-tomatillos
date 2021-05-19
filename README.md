@@ -70,7 +70,7 @@ Npm libraries: [scroll history](https://www.npmjs.com/package/react-router-scrol
 ## Deployment
 This website was deployed to Heroku through Heroku’s automated deploy pipeline. The API was previously deployed through Heroku by Turing staff.
 
-[Rancid Tomatillos Deployment Link](https://rancid-tomatillos-khap.herokuapp.com/)
+[Rancid Tomatillos Deployment Link](https://rancid-tomatillos-nine.vercel.app/)
 
 ## Authors
 [Alia Peterson](https://github.com/alia-peterson)  
